@@ -2,7 +2,7 @@ KloudDev = {}
 
 KloudDev.Debug = false
 
-KloudDev.ImagePath = "https://cfx-nui-ox_inventory/web/images/"
+KloudDev.ImagePath = "qs-inventory/html/images/"
 
 KloudDev.DrawSprite = true -- ox_target indicator
 KloudDev.DrawText = "qb" -- "qb","ox"
