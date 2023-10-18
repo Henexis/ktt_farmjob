@@ -9,12 +9,12 @@ KloudDev.Locations = {
         action = {
             type = "skillCheck", -- "progress" / "skillCheck"
             progressDuration = 5000,
-            skillCheckDifficulty = {"easy", "easy", "easy", "easy"}, -- "easy", "medium", "hard"
+            skillCheckDifficulty = {"easy", "medium", "hard", "hard"}, -- "easy", "medium", "hard"
             skillCheckInputs = {"1", "2", "3", "4"}
         },
         max = 25,
         target = {
-            label = "Uproot",
+            label = "Thu hoạch",
             icon = "fas fa-trowel"
         },
         anim = {
@@ -38,13 +38,13 @@ KloudDev.Locations = {
                 }
             },
             name = "dirty_potato",
-            label = "Dirty Potato",
+            label = "Khoai tây bẩn",
             min = 1,
             max = 4
         },
         blip = {
             enabled = true,
-            label = "Potato Field",
+            label = "Cánh đồng Khoai Tây",
             sprite = 285,
             scale = 0.9,
             colour = 21,
@@ -60,12 +60,12 @@ KloudDev.Locations = {
         action = {
             type = "progress", -- "progress" / "skillCheck"
             progressDuration = 5000,
-            skillCheckDifficulty = {"easy", "easy", "easy", "easy"}, -- "easy", "medium", "hard"
+            skillCheckDifficulty = {"easy", "hard", "medium", "hard"}, -- "easy", "medium", "hard"
             skillCheckInputs = {"1", "2", "3", "4"}
         },
         max = 25,
         target = {
-            label = "Uproot",
+            label = "Thu hoạch",
             icon = "fas fa-hands-holding"
         },
         anim = {
@@ -89,13 +89,13 @@ KloudDev.Locations = {
                 }
             },
             name = "dirty_cabbage",
-            label = "Dirty Cabbage",
+            label = "Bắp cải bẩn",
             min = 1,
             max = 4
         },
         blip = {
             enabled = true,
-            label = "Cabbage Field",
+            label = "Cánh đồng bắp cải",
             sprite = 285,
             scale = 0.9,
             colour = 2,
@@ -111,12 +111,12 @@ KloudDev.Locations = {
         action = {
             type = "skillCheck", -- "progress" / "skillCheck"
             progressDuration = 5000,
-            skillCheckDifficulty = {"easy", "easy", "easy", "easy"}, -- "easy", "medium", "hard"
+            skillCheckDifficulty = {"hard", "easy", "medium", "hard"}, -- "easy", "medium", "hard"
             skillCheckInputs = {"1", "2", "3", "4"}
         },
         max = 25,
         target = {
-            label = "Uproot",
+            label = "Thu hoạch",
             icon = "fas fa-hands-holding"
         },
         anim = {
@@ -140,13 +140,13 @@ KloudDev.Locations = {
                 }
             },
             name = "dirty_tomato",
-            label = "Dirty Tomato",
+            label = "Cà chua bẩn",
             min = 1,
             max = 4
         },
         blip = {
             enabled = true,
-            label = "Tomato Field",
+            label = "Cánh đồng cà chua",
             
             sprite = 285,
             scale = 0.9,
@@ -168,7 +168,7 @@ KloudDev.Locations = {
         },
         max = 25,
         target = {
-            label = "Uproot",
+            label = "Thu hoạch",
             icon = "fas fa-hands-holding"
         },
         anim = {
@@ -192,13 +192,13 @@ KloudDev.Locations = {
                 }
             },
             name = "dirty_coffee_beans",
-            label = "Dirty Coffe Beans",
+            label = "Cà phê bẩn",
             min = 1,
             max = 4
         },
         blip = {
             enabled = true,
-            label = "Coffee Bean Field",
+            label = "Bãi cà phê",
             
             sprite = 285,
             scale = 0.9,
