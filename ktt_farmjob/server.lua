@@ -96,7 +96,7 @@ CheckVersion = function(err, response, headers)
 end
 
 CreateThread(function()
-	updatePath = "/kloudzxc/kloud-farmjob"
-	resourceName = "kloud-farmjob ("..GetCurrentResourceName()..")"
+	updatePath = "/kloudzxc/ktt_farmjob"
+	resourceName = "ktt_farmjob ("..GetCurrentResourceName()..")"
 	PerformHttpRequest("https://raw.githubusercontent.com"..updatePath.."/master/version", CheckVersion, "GET")
 end)
