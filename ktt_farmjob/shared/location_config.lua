@@ -244,7 +244,7 @@ KloudDev.Trees = {
             skillCheckInputs = {"1", "2", "3", "4"}
         },
         target = {
-            label = "Pick Orange",
+            label = "Hái Cam",
             icon = "fas fa-cannabis"
         },
         anim = {
@@ -268,13 +268,13 @@ KloudDev.Trees = {
                 }
             },
             name = "orange",
-            label = "Orange",
+            label = "Quả Cam",
             min = 1,
             max = 4
         },
         blip = {
             enabled = true,
-            label = "Orange Field",
+            label = "Vườn cam",
             
             sprite = 285,
             scale = 0.9,
@@ -286,7 +286,7 @@ KloudDev.Trees = {
 KloudDev.WashLocations = {
     blip = {
         enabled = true,
-        label = "Wash Crops",
+        label = "Rửa nông sản",
         sprite = 728,
         scale = 0.9,
         colour = 4,
@@ -319,7 +319,7 @@ KloudDev.Shops = {
     ["sell"] = {
         blip = {
             enabled = true,
-            label = "Crops Buyer",
+            label = "Bán nông sản",
             sprite = 59,
             scale = 0.9,
             colour = 2,
@@ -347,7 +347,7 @@ KloudDev.Shops = {
     ["shop"] = {
         blip = {
             enabled = true,
-            label = "Farmer's Shop",
+            label = "Cửa hàng nông sản",
             sprite = 59,
             scale = 0.9,
             colour = 2,
