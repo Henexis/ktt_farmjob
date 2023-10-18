@@ -1,14 +1,14 @@
 {
-    "no_required_item":"You don't have a %s",
-    "cant_carry":"You can't carry more %s",
-    "uprooting":"Uprooting %s",
-    "washing":"Washing %s",
-    "item_broke":"%s Broke",
-    "wash_crops":"Wash Crops",
-    "no_crops_to_wash":"You don't have any crops that needs a wash",
-    "press_wash_crops":"%s Wash Crops",
-    "open_shop":"Open Shop",
-    "open_sell":"Open Sell",
-    "sell_crops":"Sell Crops",
-    "farmer_shop":"Agriculture Shop"
+    "no_required_item":"Bạn không có %s",
+    "cant_carry":"Bạn không thể mang thêm %s",
+    "uprooting":"Thu hoạch %s",
+    "washing":"Đang rửa %s",
+    "item_broke":"%s bị hỏng",
+    "wash_crops":"Rửa nông sản",
+    "no_crops_to_wash":"Bạn không có nông sản nào để rửa",
+    "press_wash_crops":"%s rửa nông sản",
+    "open_shop":"Mua hàng",
+    "open_sell":"Bán hàng",
+    "sell_crops":"Bán nông sản",
+    "farmer_shop":"Cửa hàng nông sản"
 }
